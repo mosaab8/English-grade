@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/English-grade/static/css/main.976ca0a9.css",
+    "main.css": "/English-grade/static/css/main.0eb9dcee.css",
     "main.js": "/English-grade/static/js/main.7e8e7be0.js",
     "static/js/488.a7fbaf78.chunk.js": "/English-grade/static/js/488.a7fbaf78.chunk.js",
     "static/media/darkness-feather.jpg": "/English-grade/static/media/darkness-feather.eac2ddd573e5cff6e9ab.jpg",
     "index.html": "/English-grade/index.html",
-    "main.976ca0a9.css.map": "/English-grade/static/css/main.976ca0a9.css.map",
+    "main.0eb9dcee.css.map": "/English-grade/static/css/main.0eb9dcee.css.map",
     "main.7e8e7be0.js.map": "/English-grade/static/js/main.7e8e7be0.js.map",
     "488.a7fbaf78.chunk.js.map": "/English-grade/static/js/488.a7fbaf78.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.976ca0a9.css",
+    "static/css/main.0eb9dcee.css",
     "static/js/main.7e8e7be0.js"
   ]
 }
